@@ -22,3 +22,7 @@ GitBook 链接示例：http://zitiao.org/material-design/usability/accessibility
 MDwiki 链接示例：http://dynalon.github.io/mdwiki/#!layout.md 
 
 多人协作 和 版本控制 
+
+
+gitbook init 报错
+https://github.com/GitbookIO/gitbook/issues/1792
