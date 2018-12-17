@@ -26,3 +26,6 @@ MDwiki 链接示例：http://dynalon.github.io/mdwiki/#!layout.md
 
 gitbook init 报错
 https://github.com/GitbookIO/gitbook/issues/1792
+
+jenkins命令行
+https://510888780.iteye.com/blog/2207693
