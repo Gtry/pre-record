@@ -29,3 +29,8 @@ https://github.com/GitbookIO/gitbook/issues/1792
 
 jenkins命令行
 https://510888780.iteye.com/blog/2207693
+
+https://www.jianshu.com/p/fb2bdde5b498
+http://www.cnblogs.com/jiayuchn-test/p/8875105.html
+https://blog.csdn.net/sdcxyz/article/details/53184323
+
